@@ -13,10 +13,13 @@
 git cline https://github.com/shafinr23/theme.git
 ```
 - OR you cal directily download it 
+and start coding :) 
 
-
+# conclusion
 if you want to contribute in this project , to improve it more . 
-YES you welcome , you can contrubute this with me and imporve this template . 
+
+**YES**; you are welcome , you can contrubute this with me and imporve this template . 
 
 thank you 
+
 ShafinRahman
